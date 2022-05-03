@@ -17,6 +17,4 @@ After clone this respository.
 
 - Home 
 
-![Portada](https://user-images.githubusercontent.com/97521604/166472723-ec0e43fd-b44b-4afb-9d18-3bc552f89ede.jpg)
 
-![Portada1](https://user-images.githubusercontent.com/97521604/166474344-5d63ca84-b883-43c3-8c96-c838a17297c9.jpg)
